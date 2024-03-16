@@ -11,7 +11,7 @@ const RecentBlog = () => {
   return (
     <div
       style={{ background: theme.ui, color: theme.text }}
-      className=" md:py-4 md:px-24 space-y-8 md:flex md:flex-col md:justify-start md:items-center px-6 mb-44"
+      className=" md:py-4 md:px-24 space-y-8 md:flex md:flex-col md:justify-start md:items-center px-6"
     >
       <div className="flex flex-col xl:flex  gap-4 xl:gap-0  md:max-w-2xl lg:max-w-full xl:max-w-none">
         <div className="font-bold text-2xl">Recent blog post</div>

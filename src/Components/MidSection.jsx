@@ -36,10 +36,10 @@ function MiddleSection() {
             appealing and easier to navigate.
           </p>
           <div className="space-x-2 flex ">
-            <button className=" px-2 rounded-full items-center justify-center flex bg-[#FDF2FA] text-[#6941C6]">
+            <button className=" px-2 rounded-full items-center text-[16px] font-semibold justify-center flex bg-[#FDF2FA] text-[#6941C6]">
               Design
             </button>
-            <button className="text-[#C11574] px-2 rounded-full items-center justify-center flex bg-[#FDF2FA]">
+            <button className="text-[#C11574] px-2 rounded-full text-[16px] font-semibold items-center justify-center flex bg-[#FDF2FA]">
               Interface
             </button>
           </div>
